@@ -22,7 +22,7 @@
 3. 初始化SDK（请尽早初始化SDK）
 
    ```java
-   AdSdk.start(this, "app_id");//app_id请联系商务获取
+   AdSdk.start(context, "app_id");//app_id请联系商务获取
    ```
 
 ### II.横幅广告

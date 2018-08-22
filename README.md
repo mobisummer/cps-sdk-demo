@@ -6,7 +6,7 @@
 
    ```groovy
    repositories { 
-   	maven { url "https://raw.githubusercontent.com/mobisummer/ms-monetize-sdk/master" }
+   	maven { url "https://raw.githubusercontent.com/mobisummer/cps-sdk/master" }
    }
    ```
 
@@ -15,7 +15,7 @@
    ```groovy
    dependencies {
      implementation 'com.google.code.gson:gson:2.8.5'
-     implementation '"com.ms.mscps:sdk:1.0.1"'
+     implementation "com.ms.mscps:sdk:1.0.3"
    }
    ```
 

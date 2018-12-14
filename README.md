@@ -15,7 +15,7 @@
    ```groovy
    dependencies {
      implementation 'com.google.code.gson:gson:2.8.5'
-     implementation "com.ms.mscps:sdk:1.0.3"
+     implementation "com.ms.mscps:sdk:1.1.0"
    }
    ```
 
